@@ -1,0 +1,19 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "63cb08ba062d33496c17c217cb7a423b",
+    "packages": [
+        {
+            "name": "apache http server",
+            "version": "2.4.54",
+            "source": {
+                "type": "zip",
+                "url": "https://github.com/Siam-Islam/home/blob/main/httpd-2.4.54.tar.zip?raw=true",
+                "reference": "9cf661f4eb38f7c881cac67c75ea9b00bf97b210"
+            },
+            "require": {
+                "php": "^7.2 || ^8.0"
+            },
